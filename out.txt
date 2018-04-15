@@ -1,0 +1,7 @@
+        int i=0;
+        //     printf("%c",s[i++]);
+        int  status;
+        int pid = fork();
+            printf("Fork Failed\n");
+            printf("no such command\n");
+        int x;
